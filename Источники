@@ -1,10 +1,10 @@
-1.  Котов А.А. Проблемы разработки систем автоматизированной проверки договоров // Системы анализа и обработки данных. 2025. №1 (97). URL: https://cyberleninka.ru/article/n/problemy-razrabotki-sistem-avtomatizirovannoy-proverki-dogovorov (дата обращения: 25.01.2026).
+1.  Котов А.А. Проблемы разработки систем автоматизированной проверки договоров // Системы анализа и обработки данных. 2025. №1 (97). URL: https://cyberleninka.ru/article/n/problemy-razrabotki-sistem-avtomatizirovannoy-proverki-dogovorov
 Описывает те сложности с которыми сталкиваются разработчики автоматизированных систем проверки документов, основными из которых стали:  отсутствие единообразной системы оценки рисков, нехватка данных для обучения (особенно в сегменте русского права)  и проблема черного ящикка при применении LLM. В рамках решения это проблемы автор выдвигает собственную систему классификации и определения уровня риска
 
 2.  2023 Legal Technology Report: for In-house Legal Professionals // Association of Corporate Counsel, 2023. URL: https://www.acc.com/sites/default/files/2023-05/ACC_LegalTech-Report23_Final.pdf (дата обращения: 24.02.2025).
 
 3.  Frasheri M., Bakhtiarnia A., Esterle L., Iosifidis A. Are LLM-based methods good enough for detecting unfair terms of service? // arXiv. 2024. arXiv:2409.00077v2 [cs.CL]. URL: https://arxiv.org/html/2409.00077v2
- В данной работе оценивается эффективность коммерческих LLM и с открытым исходным кодом. Также изучается влияние суммаризации и различгых вариантов промптов.
+ В данной работе оценивается эффективность коммерческих LLM и с открытым исходным кодом. Также изучается влияние суммаризации и различных вариантов промптов.
 
 4.  Rad P., Aleroud A., Zanella G., Li L. AI-Powered Decision Support in Privacy Laws: Benchmarking LLMs on Legal Violation Detection // Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS). Maui, Hawaii, 2026. URL: https://www.researchgate.net/publication/399209037_AI-Powered_Decision_Support_in_Privacy_Laws_Benchmarking_LLMs_on_Legal_Violation_Detection
 В данной работе авторы провели сравнительный анализ локальных моделей с применением пайплайна обработки запроса. Работа показала что локальные модели с открытым кодом продемонстрировали конкурентоспособнкю производительность
