@@ -22,10 +22,10 @@
 8.  Greenblatt R., Denison C., Wright B., et al. Alignment faking in large language models // arXiv. 2024. DOI: 10.48550/arxiv.2412.14093. URL: https://arxiv.org/abs/2412.14093 
     *В исследовании изучается феномен симуляции следования инструкциям (alignment faking) и другое нежелательное поведение LLM. Авторы выявляют и анализируют риск «притворного согласования» в процессе обучения моделей. В эксперименте модели создавались условия, позволявшие им различать этапы обучения и применения. В результате модель стратегически симулировала усвоение требуемого поведения на этапе обучения, чтобы сохранить своё изначальное предпочтительное поведение в остальных случаях.*
 
-9. Retrieval-Augmented Generation for Large Language Models: A Survey [Электронный ресурс] / Yunfan Gao, Yun Xiong, Xinyu Gao [и др.] ; Shanghai Research Institute for Intelligent Autonomous Systems, Tongji University, Shanghai Key Laboratory of Data Science, School of Computer Science, Fudan University, College of Design and Innovation, Tongji University. – URL: https://arxiv.org/abs/2312.10997
+9. Yunfan Gao, Yun Xiong, Xinyu Gao [и др.] Retrieval-Augmented Generation for Large Language Models: A Survey [Электронный ресурс] / Shanghai Research Institute for Intelligent Autonomous Systems, Tongji University, Shanghai Key Laboratory of Data Science, School of Computer Science, Fudan University, College of Design and Innovation, Tongji University. 2023 – URL: https://arxiv.org/abs/2312.10997
    *Данная работа описывает возможности технологии RAG и методы их применения. 
 
-10. LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain [Электронный ресурс] / Nicholas Pipitone, Ghita Houir Alami. – URL: https://arxiv.org/abs/2408.10343
+10. Nicholas Pipitone, Ghita Houir Alami. LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain [Электронный ресурс] / 2024  URL: https://arxiv.org/abs/2408.10343
    *В статье представлен LegalBench-RAG - бенчмарк, специально разработанный для оценки работы метода RAG в юридической сфере. В ходе экспериментов авторы пришли к подтверждению необходимости применения специализированных инструметов, способных  отражать нюансы работы с юридическими текстами.
 
 Альтернативные решения:
